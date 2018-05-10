@@ -1,5 +1,5 @@
 <?php  
-      $stringa = 'mysql:host=localhost;dbname=carsharing';
+      $stringa = 'mysql:host=localhost;dbname=lasthc';
       $username = 'root';
-      $password = 'ale';
+      $password = 'root';
 ?>

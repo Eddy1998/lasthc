@@ -19,9 +19,10 @@
       $row = $stm->fetch();
     }
     echo
+      //body{background-image: url('')}
       "
       <style>
-        body{background-image: url('http://sf.co.ua/15/02/wallpaper-1cca76.jpg')}
+        
       </style>
       <nav class='navbar navbar-inverse navbar-fixed-top'>
         <div class='container-fluid'>
@@ -80,9 +81,10 @@
         $row = $stm->fetch();
       }
       echo
+        //   body{background-image: url('')}
         "
         <style>
-          body{background-image: url('https://www.idealclassiccars.net/galleria_images/93/93_main_l.jpg')}
+       
         </style>
         <nav class='navbar navbar-inverse navbar-fixed-top'>
           <div class='container-fluid'>
